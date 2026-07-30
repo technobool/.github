@@ -1,4 +1,4 @@
-## Welcome 👋
+# Welcome 
 
 <!--
 
@@ -13,3 +13,4 @@
 
 ## Connect With Us
 * **Discord** [![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5xdAFuadP)
+* **Slack:** [![Slack](https://img.shields.io/badge/Slack-Join%20Chat-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://technobool.slack.com)
